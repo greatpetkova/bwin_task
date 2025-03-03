@@ -5,12 +5,12 @@ user@pc:~$ npm install
 user@pc:~$ npx playwright install
 ```
 
-2. Executing tests
+2. Executing tests (tested in WebStorm IDE terminal)
 ```console
 user@pc:~$ npm run bwin:web-common:prod
 ```
 
-for debugging: 
+for debugging (tested in WebStorm IDE terminal): 
 ```console
 user@pc:~$ npm run bwin:web-common:prod:debug
 ```
